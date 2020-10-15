@@ -23,12 +23,12 @@
   1. First, enter your **root Mode** by `sudo su`.
   2. Second, go to `cd /usr/local/bin/`.
   3. Third, execute these commands:
-    - `python3 -m pip install flake8`
-    - `ls`
-    - `apm install linter-flake8`
-    - `ls`
-    - `python3 -m pip install flake8-docstring`
-    - `python3 -m pip install hacking`
+    -`python3 -m pip install flake8`
+    -`ls`
+    -`apm install linter-flake8`
+    -`ls`
+    -`python3 -m pip install flake8-docstring`
+    -`python3 -m pip install hacking`
 #### If you didn't install *pip* before, then you can install it by `sudo apt-get install pip` and then, you can move on to continue the installation of flake8.
 8. close your **Atom** and open it.
 9. If you want to disable The ***Max Line Lenght*** you can do that by default it with **0**.
