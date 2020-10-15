@@ -4,7 +4,7 @@
 * This's The solution for fixing the console problem which we're facing when we decide to install ***Linter-flake8*** for *Python*.
 
 ## Why ***Linter-flake8*** doesn't work after installation?
--***Linter-flake8*** default installation for `python 2.7` and if you read the description of the package, you will find that their implementation was for `python 2.7` and not for `python3`.
+- ***Linter-flake8*** default installation for `python 2.7` and if you read the description of the package, you will find that their implementation was for `python 2.7` and not for `python3`.
 -Default installation package simulate directly with `python 2.7` and not for `python3` so, you have to install the package using the commands of `python3`.
 -Even Entering your **Executable PATH** ONLY will be only mere. Because like I said, you need to install flake8 in terms on `python3`, not `python2`.
 
