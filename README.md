@@ -34,7 +34,7 @@
 9. If you want to disable The ***Max Line Lenght*** you can do that by `Default: 0`.
 10. ***Smile!***
 
-#### It will be a courtesy from me if you start follow me :) <3
+#### It will be a courtesy from you if you start following me :) <3
 
 
 # References:
