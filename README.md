@@ -20,15 +20,15 @@
     ```
 6. Go To your ***Executable PATH** and paste this path `/usr/local/bin/`.
 7. Then, open a new Terminal and execute these commands:
-  1. First, enter your **root Mode** by `sudo su`.
-  2. Second, go to `cd /usr/local/bin/`.
-  3. Third, execute these commands:
-    - `python3 -m pip install flake8`.
-    - `ls`
-    - `apm install linter-flake8`
-    - `ls`
-    - `python3 -m pip install flake8-docstring`
-    - `python3 -m pip install hacking`
+    1. First, enter your **root Mode** by `sudo su`.
+    2. Second, go to `cd /usr/local/bin/`.
+    3. Third, execute these commands:
+        - `python3 -m pip install flake8`.
+        - `ls`
+        - `apm install linter-flake8`
+        - `ls`
+        - `python3 -m pip install flake8-docstring`
+        - `python3 -m pip install hacking`
 #### If you didn't install *pip* before, then you can install it by `sudo apt-get install pip` and then, you can move on to continue the installation of flake8.
 8. close your **Atom** and open it.
 9. If you want to disable The ***Max Line Lenght*** you can do that by default it with **0**.
@@ -39,7 +39,7 @@
 
 # References:
 - [flake8 not found](https://github.com/AtomLinter/linter-flake8/issues/18)
-- [linter--flake8](https://github.com/AtomLinter/linter-flake8)
+- [linter-flake8](https://github.com/AtomLinter/linter-flake8)
 
 # Signature:
 ![Dr. Xavier](https://user-images.githubusercontent.com/72295771/96151299-8e37a380-0f0b-11eb-8aef-615974b8ce1d.png)
