@@ -5,7 +5,7 @@
 
 ## Why ***Linter-flake8*** doesn't work after installation?
 - ***Linter-flake8*** default installation meant to be for `python 2.7` beside if you read the description of the package, you will also find that their implementation was for `python 2.7` not for `python3`.
-- Default installation package simulates directly with `python 2.7` and not for `python3` so, you have to install the package using the commands of `python3`.
+- Default installation package simulates directly with `python 2.7` not for `python3` so, you have to install the package using the commands of `python3`.
 - Even after entering your **Executable PATH** will be only mere. Because you need to install flake8 in terms of `python3`, not `python2`.
 
 ## So, What should I do?
