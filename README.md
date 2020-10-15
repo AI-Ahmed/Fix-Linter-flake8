@@ -1,7 +1,7 @@
 # Fix Linter flake8
 
 ## Description:
-* This's The solution for fixing the console problem which we're facing when we decide to install ***Linter-flake8*** for *Python3*. It has being tested in ***Linux*** and ***Debian***.
+* This's the solution for fixing the console problem which we're facing when we decide to install ***Linter-flake8*** for *Python3*. It has being tested in ***Linux*** and ***Debian***.
 
 ## Why ***Linter-flake8*** doesn't work after installation?
 - ***Linter-flake8*** default installation for `python 2.7` beside if you read the description of the package, you will also find that their implementation was for `python 2.7` not for `python3`.
