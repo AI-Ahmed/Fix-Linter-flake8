@@ -31,7 +31,7 @@
         - `python3 -m pip install hacking`
 #### If you didn't install *pip* before, then you can install it by `sudo apt-get install pip` and then, you can move on to continue the installation of flake8.
 8. close your **Atom** and open it.
-9. If you want to disable The ***Max Line Lenght*** you can do that by `Default: **0**`.
+9. If you want to disable The ***Max Line Lenght*** you can do that by `Default: 0`.
 10. ***Smile!***
 
 #### It will be a courtesy from me if you start follow me :) <3
