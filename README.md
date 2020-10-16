@@ -40,6 +40,3 @@
 # References:
 - [flake8 not found](https://github.com/AtomLinter/linter-flake8/issues/18)
 - [linter-flake8](https://github.com/AtomLinter/linter-flake8)
-
-# Signature:
-![Dr. Xavier](https://user-images.githubusercontent.com/72295771/96151299-8e37a380-0f0b-11eb-8aef-615974b8ce1d.png?raw=true)
